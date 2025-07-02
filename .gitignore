@@ -56,3 +56,5 @@ ios/*.xcodeproj/
 ios/*.xcworkspace/
 ios/xcuserdata/
 ios/*.xcuserstate 
+
+noemedi-site/src/firebase.js
