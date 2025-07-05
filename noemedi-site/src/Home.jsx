@@ -30,6 +30,13 @@ function Home() {
           <h3>Informações do usuário:</h3>
           <p><strong>Email:</strong> {user.email}</p>
           <p><strong>ID:</strong> {user.user_id}</p>
+          <p><strong>Perfil:</strong> <span style={{ 
+            backgroundColor: '#007bff', 
+            color: 'white', 
+            padding: '2px 8px', 
+            borderRadius: '12px', 
+            fontSize: '12px' 
+          }}>{user.role || 'N/A'}</span></p>
         </div>
       )}
       
