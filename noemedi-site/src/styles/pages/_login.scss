@@ -1,0 +1,19 @@
+.login-form-bx {
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fbfbfb;
+  padding: 0;
+
+  .authincation-content {
+    margin: 0 auto;
+    max-width: 500px;
+    width: 100%;
+    padding: 40px 30px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 16px rgba(0, 0, 0, 0.08);
+  }
+}

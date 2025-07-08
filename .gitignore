@@ -58,3 +58,8 @@ ios/xcuserdata/
 ios/*.xcuserstate 
 
 noemedi-site/src/firebase.js
+
+src_legacy/
+src/assets/
+/noemedi-site/src/assets
+/noemedi-site/src/styles/bootstrap/mixins
